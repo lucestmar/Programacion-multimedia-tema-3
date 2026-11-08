@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Clicks counter</string>
+    <string name="content_text">Has hecho clic %1$d veces</string>
+    <string name="reset">Clicks reset</string>
+    <string name="frase">Hola %1$s, has hecho $2$d puntos</string>
+    <string name="btn_pulsame">Click me</string>
+</resources>

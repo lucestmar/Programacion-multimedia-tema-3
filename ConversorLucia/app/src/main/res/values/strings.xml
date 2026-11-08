@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ConversorLucia</string>
+    <string name="titulo_conversor">Conversor de Numeros</string>
+    <string name="btn_crear_numero">Crear número</string>
+    <string name="numero_generado">Número: %1$d</string>
+    <string name="sin_numero_generado">Sin número generado</string>
+    <string name="btn_binario">Binario</string>
+    <string name="btn_hexadecimal">Hexadecimal</string>
+    <string name="resultado_binario">Binario: %1$s</string>
+    <string name="resultado_hexadecimal">Hexadecimal: %1$s</string>
+    <string name="btn_borrar_todo">Borrar todo</string>
+    <string name="foot_desarrollador">Desarrollado por Lucía</string>
+</resources>

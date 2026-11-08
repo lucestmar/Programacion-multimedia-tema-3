@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Contador de Clics</string>
+    <string name="content_text">Has hecho clic %1$d veces</string>
+    <string name="reset">Resetear cuenta de clics</string>
+    <string name="frase">Hola %1$s, has hecho %2$d puntos</string>
+    <string name="btn_pulsame">¡PÚLSAME!</string>
+</resources>

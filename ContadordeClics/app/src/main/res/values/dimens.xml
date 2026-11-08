@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size_medium">25sp</dimen>
+    <dimen name="text_size_large">35sp</dimen>
+    <dimen name="text_size_button">30sp</dimen>
+
+    <dimen name="spacer_height">20dp</dimen>
+    <dimen name="button_padding">16dp</dimen>
+</resources>

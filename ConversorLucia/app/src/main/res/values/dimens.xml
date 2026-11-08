@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Espaciados y Márgenes (Padding/Spacer) -->
+    <dimen name="espaciado_pequeno">8dp</dimen>
+    <dimen name="espaciado_normal">16dp</dimen>
+
+    <!-- Tamaños de fuente (Sp) -->
+    <dimen name="texto_pie_pagina">14sp</dimen>
+    <dimen name="texto_cuerpo">18sp</dimen>
+    <dimen name="texto_titulo">24sp</dimen>
+</resources>

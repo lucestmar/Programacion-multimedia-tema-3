@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ConversorLucia</string>
+    <string name="titulo_conversor">Numeric Converter</string>
+    <string name="btn_crear_numero">Generate number</string>
+    <string name="numero_generado">Number: %1$d</string>
+    <string name="sin_numero_generado">No number generated</string>
+    <string name="btn_binario">Binary</string>
+    <string name="btn_hexadecimal">Hexadecimal</string>
+    <string name="resultado_binario">Binary: %1$s</string>
+    <string name="resultado_hexadecimal">Hexadecimal: %1$s</string>
+    <string name="btn_borrar_todo">Clear all</string>
+    <string name="foot_desarrollador">Developed by Lucía</string>
+</resources>
