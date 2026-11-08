@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">StatisticsLucia</string>
+    <string name="titulo_arriba">Estadísticas Lucia</string>
+    <string name="indicador_total">Total: %1$d</string>
+
+    <!-- Tipos de transeuntes -->
+    <string name="label_personas">Personas</string>
+    <string name="label_patinetes">Patinetes</string>
+    <string name="label_bicicletas">Bicicletas</string>
+    <string name="label_coches">Coches</string>
+
+    <!-- Botones -->
+    <string name="btn_suma">+1</string>
+    <string name="btn_resta">-1</string>
+    <string name="btn_reset">Reset</string>
+    <string name="btn_reset_all">Reiniciar todos</string>
+
+    <!-- Resumen Final -->
+    <string name="title_estadisticas">Estadísticas</string>
+    <string name="total_personas">Personas: %1$.1f%%</string>
+    <string name="total_patinetes">Patinetes: %1$.1f%%</string>
+    <string name="total_bicicletas">Bicicletas: %1$.1f%%</string>
+    <string name="total_coches">Coches: %1$.1f%%</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StatisticsLucia</string>
+    <string name="titulo_arriba">Lucia Statistics</string>
+    <string name="indicador_total">Total: %1$d</string>
+
+    <!-- Passerby Types -->
+    <string name="label_personas">People</string>
+    <string name="label_patinetes">Scooters</string>
+    <string name="label_bicicletas">Bicycles</string>
+    <string name="label_coches">Cars</string>
+    <string name="btn_reset_all">Respaunt All</string>
+
+
+    <!-- Buttons -->
+    <string name="btn_suma">+1</string>
+    <string name="btn_resta">-1</string>
+    <string name="btn_reset">Reset</string>
+
+    <!-- Final Summary -->
+    <string name="title_estadisticas">Statistics</string>
+    <string name="total_personas">People: %.1f %%\n</string>
+    <string name="total_patinetes">Scooters: %.1f %%\n</string>
+    <string name="total_bicicletas">Bicycles: %.1f %%\n</string>
+    <string name="total_coches">Cars: %.1f %%\n</string>
+</resources>
