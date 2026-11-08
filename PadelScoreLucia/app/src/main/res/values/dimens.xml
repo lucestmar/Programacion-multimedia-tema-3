@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tamaños de texto -->
+    <dimen name="text_size_header">18sp</dimen>
+    <dimen name="text_size_score">36sp</dimen>
+    <dimen name="text_size_button">16sp</dimen>
+
+    <!-- Paddings y márgenes -->
+    <dimen name="header_padding_vertical">8dp</dimen>
+    <dimen name="padding_horizontal_medium">16dp</dimen>
+    <dimen name="padding_vertical_small">8dp</dimen>
+    <dimen name="padding_bottom_medium">16dp</dimen>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PadelScoreLucia</string>
+    <string name="sets">SETS</string>
+    <string name="juegos_padel">JUEGOS</string>
+    <string name="set_actual">SET ACTUAL</string>
+    <string name="puntos_a">PUNTOS EQUIPO A</string>
+    <string name="puntos_b">PUNTOS EQUIPO B</string>
+    <string name="resetear">RESETEAR</string>
+</resources>

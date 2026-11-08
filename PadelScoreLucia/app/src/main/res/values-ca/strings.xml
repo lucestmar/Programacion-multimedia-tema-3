@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PadelScoreLucia</string>
+    <string name="sets">SETS</string>
+    <string name="juegos_padel">JOC</string>
+    <string name="set_actual">SET ACTUAL</string>
+    <string name="puntos_a">PUNTS EQUIP a</string>
+    <string name="puntos_b">PUNTS EQUIP B</string>
+    <string name="resetear">RESETEJAR</string>
+</resources>
